@@ -7,7 +7,7 @@ This project is a simple memory game using Pygame.
 4x4 Grid-based game \
 Player take turns flipping tiles to find matching pairs \
 Tracks the number of attempts and displays them \
-Game ends when all pairs are matched \
+Game ends when all pairs are matched 
 
 # Gameplay
 
