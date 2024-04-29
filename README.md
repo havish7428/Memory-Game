@@ -18,7 +18,7 @@ Once all pairs are matched, the game ends and displays a message.
 
 # Requirements
 
-Python 3.12.0 \n
+Python 3.12.0 \
 Pygame
 
 
